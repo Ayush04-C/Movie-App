@@ -51,16 +51,6 @@ Build a clean, responsive front-end using React best practices
 
 
 
-📦 Future Improvements
-Movie detail pages with cast, trailer, and reviews
-
-Pagination and infinite scroll
-
-Improved UI/UX with animations
-
-Dark mode toggle
-
-
 
 
 🤝 Contributing
