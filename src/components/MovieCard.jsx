@@ -1,5 +1,9 @@
 import React from "react";
-
+function description(text, wordlimit){
+    const words = text.split(' ');
+    if(words.length <= wordlimit) return text;
+    return words.slice(0, wordlimit).join(' ') + '...';
+}
 const MovieCard = ({movie : { id ,title, vote_average, poster_path, release_date, original_language, overview }}) => {
     
     return (
@@ -20,7 +24,7 @@ const MovieCard = ({movie : { id ,title, vote_average, poster_path, release_date
                     <p style={{
                         color:'white',
                         padding: '10px 12px',
-                    }}>{overview}</p>
+                    }}>{description(overview, 25)}</p>
                 </div>
             </div>
         </div>
