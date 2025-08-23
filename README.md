@@ -1,27 +1,27 @@
-🎬 Movie Explorer - TMDB React App
+ Movie Explorer - TMDB React App
 A React-based movie search and discovery application powered by the TMDB API. This app allows users to search for their favorite movies and explore trending films based on popularity and recent user activity.
 
 
 
 
-✅ Built from scratch to understand core React concepts like useState, custom hooks, and component architecture.
+ Built from scratch to understand core React concepts like useState, custom hooks, and component architecture.
 
 
 
-✨ Features
-🔍 Search Movies: Instantly search for movies by title using the TMDB database.
+ Features
+ Search Movies: Instantly search for movies by title using the TMDB database.
 
-📈 Trending Section: Discover currently trending movies based on user searches.
+ Trending Section: Discover currently trending movies based on user searches.
 
-🧩 Component-Based Architecture: Modular and reusable React components.
+ Component-Based Architecture: Modular and reusable React components.
 
-⚛️ React Hooks: Utilizes useState, useEffect, and other essential React hooks.
-
-
+ React Hooks: Utilizes useState, useEffect, and other essential React hooks.
 
 
 
-🛠️ Technologies Used
+
+
+ Technologies Used
 React (with Hooks)
 
 TMDB API – for real-time movie data
@@ -35,8 +35,7 @@ TMDB API Key (You can get it by creating an account at TMDB)
 
 
 
-
-📚 Learning Goals
+ Learning Goals
 This project was built as a hands-on exercise to:
 
 Understand how React state and props work
@@ -53,7 +52,7 @@ Build a clean, responsive front-end using React best practices
 
 
 
-🤝 Contributing
+ Contributing
 This is a learning project, but feel free to open issues or pull requests if you have suggestions or want to contribute!
 
 
